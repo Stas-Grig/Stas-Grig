@@ -34,4 +34,4 @@
 ---
 
 ## 📫 Контакты 
-[Email](kakasi_2001@mail.ru)  
+[Email](mailto:kakasi_2001@mail.ru)  
