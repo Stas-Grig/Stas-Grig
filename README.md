@@ -22,7 +22,7 @@
 - [Классический ML](https://github.com/Stas-Grig/ML_Classification_Problem_Model_Compasion) — сравнение моделей классического машинного обучения в задаче классификации.
 - [Методы оптимизации](https://github.com/Stas-Grig/Optimization_methods) — модуль для поиска минимумов функций с одномерными и многомерными методами оптимизации.
 - [Решение систем дифференциальных уравнений](https://github.com/Stas-Grig/Solver_of_systems_of_differential_equations) — Python-модуль для численного решения ОДУ.
-- [Physics-informed neural networks](https://github.com/Stas-Grig/PINN_FOR_PROBLEMS_OF_DYNAMICS_OF_MECHANICS) - реализация физически информированной нейросети для решения задач динамики деформируемого твёрдого тела.
+- [Physics-informed neural networks](https://github.com/Stas-Grig/PINN_FOR_PROBLEMS_OF_DYNAMICS_OF_MECHANICS) — реализация физически информированной нейросети для решения задач динамики деформируемого твёрдого тела.
 
 ---
 
